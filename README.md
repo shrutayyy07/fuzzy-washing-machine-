@@ -15,6 +15,13 @@ This project is built using a clean, modern, separated architecture:
 3. **Database**: Lightweight SQLite keeping track of your calculation history.
 4. **MATLAB**: A native `.m` file (`matlab_files/washing_machine_fuzzy.m`) for academic representation including 3D Surface diagrams.
 
+## Features
+
+- Interactive frontend UI
+- Modular backend (Python)
+- Fuzzy inference system
+- Real-time prediction
+
 ## How to Run Locally
 
 ### 1. Start the Backend
