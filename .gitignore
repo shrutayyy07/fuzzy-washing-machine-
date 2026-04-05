@@ -13,3 +13,9 @@ database/*.sqlite3
 # Node / Mac
 node_modules/
 .DS_Store
+.antigravity/
+.gemini/s
+.vscode/
+node_modules/
+__pycache__/
+.env
