@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+env/
+
+# Database
+database/*.db
+database/*.sqlite3
+
+# Node / Mac
+node_modules/
+.DS_Store
